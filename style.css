@@ -7,8 +7,7 @@
 .text {
             width: 60%;           
             font-size: 18px; 
-            margin-right:200px;      
-            margin:50px auto;
+            margin-right:150px;      
         }
     #id {
             display: flex;              
@@ -18,7 +17,7 @@
 .text {
             width: 60%;           
             font-size: 18px; 
-            margin-right:200px;      
+            margin-right:150px;      
         }
       
   
@@ -41,3 +40,4 @@
         } */
 
          
+
