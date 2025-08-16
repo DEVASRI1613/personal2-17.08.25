@@ -1,0 +1,41 @@
+
+.container {
+            display: flex;              
+            align-items: center;     
+            justify-content: space-between;
+        }
+.text {
+            width: 60%;           
+            font-size: 18px; 
+            margin-right:200px;      
+        }
+    #id {
+            display: flex;              
+            align-items: center;     
+            justify-content: space-between;
+        }
+.text {
+            width: 60%;           
+            font-size: 18px; 
+            margin-right:200px;      
+        }
+      
+  
+        .paragraph{
+            font-size: 20px;
+           margin-left:45px; 
+           width:90%;
+        }
+        .once{
+            margin-left: 300px;
+        }
+        .two{
+            margin-right:300px;
+        }
+        .oii{
+            margin-top:100px;
+        }
+        /* audio{
+            display:flex;
+        } */
+         
